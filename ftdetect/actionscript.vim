@@ -1,1 +1,1 @@
-au BufRead,BufNewFile *.as filetype=actionscript
+au BufRead,BufNewFile *.as set ft=actionscript
