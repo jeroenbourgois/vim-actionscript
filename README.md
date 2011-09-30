@@ -4,8 +4,8 @@ This is a simple mirror from the excellent actionscript.vim file made by [Abdul 
 
 Usage
 -----
-You can just clone the repo inside your /VIMFOLDER/bundle and then load everything up with pathogen.
+You can just clone the repo inside your ~/.vim/bundle and then load everything up with pathogen, or use [Vundle](https://github.com/gmarik/vundle).
 
 Problems?
 ---------
-To bad :( but you can always create an issue :)
+Too bad :( but you can always create an issue :)
